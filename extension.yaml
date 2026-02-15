@@ -1,4 +1,4 @@
-name: crashlytics-webhook
+name: releasetag
 version: 0.0.1
 specVersion: v1beta
 
