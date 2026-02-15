@@ -1,6 +1,6 @@
 ## Version 0.0.4
 
-- Upgrade Cloud Functions runtime from Node.js 18 to Node.js 20 (nodejs18 is no longer supported for new deployments)
+fix - Upgrade Cloud Functions runtime from Node.js 18 to Node.js 20 (nodejs18 is no longer supported for new deployments)
 
 ## Version 0.0.3
 
