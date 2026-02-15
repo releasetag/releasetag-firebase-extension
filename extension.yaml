@@ -1,5 +1,5 @@
 name: releasetag
-version: 0.0.3
+version: 0.0.4
 specVersion: v1beta
 
 displayName: Crashlytics Webhook Forwarder
@@ -61,7 +61,7 @@ resources:
     properties:
       location: ${LOCATION}
       buildConfig:
-        runtime: nodejs18
+        runtime: nodejs20
       serviceConfig:
         availableMemory: 256M
       eventTrigger:
@@ -77,7 +77,7 @@ resources:
     properties:
       location: ${LOCATION}
       buildConfig:
-        runtime: nodejs18
+        runtime: nodejs20
       serviceConfig:
         availableMemory: 256M
       eventTrigger:
@@ -93,7 +93,7 @@ resources:
     properties:
       location: ${LOCATION}
       buildConfig:
-        runtime: nodejs18
+        runtime: nodejs20
       serviceConfig:
         availableMemory: 256M
       eventTrigger:
@@ -109,7 +109,7 @@ resources:
     properties:
       location: ${LOCATION}
       buildConfig:
-        runtime: nodejs18
+        runtime: nodejs20
       serviceConfig:
         availableMemory: 256M
       eventTrigger:
