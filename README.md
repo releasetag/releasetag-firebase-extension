@@ -1,6 +1,6 @@
-# ReleaseTag Firebase Extension
+# ReleaseTag Connector
 
-A Firebase Extension that forwards Crashlytics alerts to [ReleaseTag](https://releasetag.com) via webhook, so crash reports appear in your Diagnostics dashboard alongside customer feedback and app reviews.
+A Firebase Extension that connects Crashlytics to [ReleaseTag](https://releasetag.com), forwarding crash alerts to your Diagnostics dashboard alongside customer feedback and app reviews.
 
 ## Supported Alert Types
 

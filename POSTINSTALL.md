@@ -9,7 +9,7 @@
 To update the webhook URL or secret:
 
 1. Go to the [Firebase Extensions dashboard](https://console.firebase.google.com/project/_/extensions)
-2. Find the **Crashlytics Webhook Forwarder** extension
+2. Find the **ReleaseTag Connector** extension
 3. Click **Manage** > **Reconfigure extension**
 4. Update the values and save
 

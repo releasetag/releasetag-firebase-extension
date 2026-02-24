@@ -2,8 +2,8 @@ name: releasetag
 version: 0.0.4
 specVersion: v1beta
 
-displayName: Crashlytics Webhook Forwarder
-description: Forwards Firebase Crashlytics alerts to a webhook URL for integration with external services.
+displayName: ReleaseTag Connector
+description: Connects Firebase Crashlytics to ReleaseTag, forwarding crash alerts to your Diagnostics dashboard alongside customer feedback and app reviews.
 
 license: Apache-2.0
 
